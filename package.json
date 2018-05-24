@@ -1,0 +1,27 @@
+{
+    "name": "the-girly-theme",
+    "displayName": "The Girly Theme",
+    "description": "A colorful light theme that is pleased to the eyes. For girls, by girl.",
+    "version": "0.0.1",
+    "publisher": "khe817",
+    "engines": {
+        "vscode": "^1.20.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "url": "https://github.com/khe817/vscode-the-girly-theme.git",
+        "type": "git"
+    },
+    "homepage": "https://github.com/khe817/vscode-the-girly-theme",
+    "contributes": {
+        "themes": [
+            {
+                "label": "The Girly Theme",
+                "uiTheme": "vs",
+                "path": "./themes/the-girly-theme-color-theme.json"
+            }
+        ]
+    }
+}
