@@ -1,6 +1,6 @@
-# README
+# The Girly Theme
 
-This is colorful light theme for Visual Studio Code that is pleased to the eyes. For girls, by girl.
+This is a colorful light theme for Visual Studio Code that is pleasing to the eyes. For girls, by a girl.
 
 ![Screenshot](https://raw.githubusercontent.com/khe817/vscode-the-girly-theme/master/the-girly-theme.PNG)
 
