@@ -2,7 +2,7 @@
     "name": "the-girly-theme",
     "displayName": "The Girly Theme",
     "description": "A colorful light theme that is pleasing to the eyes. For girls, by a girl.",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "publisher": "khe817",
     "engines": {
         "vscode": "^1.20.0"

@@ -41,10 +41,11 @@
 			"name": "Comments: Documentation",
 			"scope": [
 				"comment.documentation",
-				"comment.block.documentation"
+				"comment.block.documentation",
+				"comment.block.javadoc"
 			],
 			"settings": {
-				"foreground": "#448C27"
+				"foreground": "#AAAAAA"
 			}
 		},
 		{
@@ -70,12 +71,23 @@
 			}
 		},
 		{
-			"name": "Keywords",
+			"name": "Keywords Syntax (if, for, while)",
 			"scope": [
-				"keyword"
+				"keyword.control",
+				"keyword.operator",
+				"keyword.other.definition"
 			],
 			"settings": {
 				"fontStyle": "bold",
+				"foreground": "#7A3E9D"
+			}
+		},
+		{
+			"name": "Keywords Others",
+			"scope": [
+				"keyword.other"
+			],
+			"settings": {
 				"foreground": "#7A3E9D"
 			}
 		},
@@ -92,7 +104,9 @@
 			"name": "Types",
 			"scope": [
 				"storage.type",
-				"support.type"
+				"support.type",
+				"entity.name.type.js",
+				"meta.throwables"
 			],
 			"settings": {
 				"fontStyle": "italic",
@@ -115,11 +129,22 @@
 			"name": "Variables",
 			"scope": [
 				"variable",
+				"variable.other.property",
 				"support.variable"
 			],
 			"settings": {
 				"fontStyle": "italic",
 				"foreground": "#4B83CD"
+			}
+		},
+		{
+			"name": "Function Identifiers",
+			"scope": [
+				"meta.method.identifier",
+				"meta.definition.function.js"
+			],
+			"settings": {
+				"fontStyle": "bold"
 			}
 		},
 		{
@@ -281,7 +306,9 @@
 				"meta.selector",
 				"meta.selector entity",
 				"meta.selector entity punctuation",
-				"entity.name.tag.css"
+				"entity.name.tag.css",
+				"entity.other.attribute-name.class.css",
+				"entity.other.attribute-name.id.css"
 			],
 			"settings": {
 				"foreground": "#7A3E9D"
@@ -312,7 +339,21 @@
 			"name": "CSS: Important Keyword",
 			"scope": "keyword.other.important",
 			"settings": {
-				"fontStyle": "bold"
+				"fontStyle": "bold",
+				"foreground": "#7A3E9D"
+			}
+		},
+		{
+			"name": "-----------------------------------",
+			"settings": {}
+		},
+		{
+			"name": "JSON: Property Names",
+			"scope": [
+				"support.type.property-name.json"
+			],
+			"settings": {
+				"foreground": "#4B83CD"
 			}
 		},
 		{

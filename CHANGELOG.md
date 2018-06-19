@@ -7,4 +7,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Initial release
 
 # 0.0.2
-- Less offensive backgroun color
+- Less offensive background color
+
+# 0.0.3
+- Better support for java, javascript, and json
