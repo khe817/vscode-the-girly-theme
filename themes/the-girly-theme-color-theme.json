@@ -71,23 +71,26 @@
 			}
 		},
 		{
-			"name": "Keywords Syntax (if, for, while)",
-			"scope": [
-				"keyword.control",
-				"keyword.operator",
-				"keyword.other.definition"
-			],
-			"settings": {
-				"fontStyle": "bold",
-				"foreground": "#7A3E9D"
-			}
-		},
-		{
 			"name": "Keywords Others",
 			"scope": [
 				"keyword.other"
 			],
 			"settings": {
+				"fontStyle": "normal",
+				"foreground": "#7A3E9D"
+			}
+		},
+		{
+			"name": "Keywords Syntax (if, for, while)",
+			"scope": [
+				"keyword",
+				"keyword.operator.new",
+				"keyword.operator.ternary",
+				"keyword.operator.logical",
+				"keyword.other.definition"
+			],
+			"settings": {
+				"fontStyle": "bold",
 				"foreground": "#7A3E9D"
 			}
 		},
@@ -97,6 +100,7 @@
 				"storage"
 			],
 			"settings": {
+				"fontStyle": "normal",
 				"foreground": "#8f9105"
 			}
 		},
@@ -123,6 +127,15 @@
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#b72a31"
+			}
+		},
+		{
+			"name": "Language: this variable",
+			"scope": [
+				"variable.language.this"
+			],
+			"settings": {
+				"fontStyle": "italic"
 			}
 		},
 		{

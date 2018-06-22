@@ -11,3 +11,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 # 0.0.3
 - Better support for java, javascript, and json
+
+# 0.0.4
+- More support for java.
