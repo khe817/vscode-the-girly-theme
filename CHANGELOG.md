@@ -14,3 +14,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 # 0.0.4
 - More support for java.
+
+# 0.0.5
+- Better support for php.
+- Clearer selection backgrounds.
