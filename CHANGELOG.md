@@ -18,3 +18,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 # 0.0.5
 - Better support for php.
 - Clearer selection backgrounds.
+
+# v0.0.6
+- Minor changes to keep theme look the same.

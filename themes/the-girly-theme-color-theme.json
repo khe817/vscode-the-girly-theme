@@ -88,7 +88,7 @@
 				"keyword.operator.ternary",
 				"keyword.operator.logical",
 				"keyword.other.definition",
-                "keyword.other.new"
+				"keyword.other.new"
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -110,7 +110,8 @@
 			"scope": [
 				"storage.type",
 				"support.type",
-                "support.class",
+				"support.class",
+				"entity.name.class",
 				"entity.name.type.js",
 				"meta.throwables"
 			],
@@ -125,7 +126,7 @@
 				"constant.language",
 				"support.constant",
 				"variable.language",
-                "variable.other.global"
+				"variable.other.global"
 			],
 			"settings": {
 				"fontStyle": "bold",
@@ -587,7 +588,7 @@
 		"activityBar.background": "#EDEDF5",
 		"activityBar.foreground": "#705697",
 		"activityBarBadge.background": "#705697",
-		"titleBar.activeBackground": "#c4b7d7",
+		"titleBar.activeBackground": "#ffffff",
 		"button.background": "#705697",
 		"notification.background": "#442e66",
 		"editorGroup.dropBackground": "#C9D0D988",
