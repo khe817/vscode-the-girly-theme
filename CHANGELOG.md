@@ -21,3 +21,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 # v0.0.6
 - Minor changes to keep theme look the same.
+
+# v0.0.7
+- Add support for Kotlin
