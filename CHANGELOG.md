@@ -24,3 +24,6 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 # v0.0.7
 - Add support for Kotlin
+
+# v0.0.8
+- Bracket highlights for when Braket Pair Colorization is enabled.

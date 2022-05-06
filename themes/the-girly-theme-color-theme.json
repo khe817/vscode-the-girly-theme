@@ -605,6 +605,13 @@
 		"inputValidation.errorBorder": "#f1897f",
 		"errorForeground": "#ffeaea",
 		"badge.background": "#705697AA",
-		"progressBar.background": "#705697"
+		"progressBar.background": "#705697",
+		"editorBracketHighlight.foreground1": "#535353",
+		"editorBracketHighlight.foreground2": "#777777",
+		"editorBracketHighlight.foreground3": "#9f5cc6",
+		"editorBracketHighlight.foreground4": "#74b5eb",
+		"editorBracketHighlight.foreground5": "#6fca15",
+		"editorBracketHighlight.foreground6": "#abb2c0",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#c32b30"
 	}
 }
